@@ -18,4 +18,4 @@
 * <font size=4>添加背景音乐(注意音量)</font>
 
 #### <font size=5>待办</font>
-1. - [x] 添加背景音乐（[下载链接](https://link.jscdn.cn/lanzou/aHR0cHM6Ly95aWthbmcubGFuem91bC5jb20vaUNRY00wZHR2cWhjJnBhc3NDb2RlPQ.mp3)）
+1. - [x] 添加背景音乐( [下载链接](https://link.jscdn.cn/lanzou/aHR0cHM6Ly95aWthbmcubGFuem91bC5jb20vaUNRY00wZHR2cWhjJnBhc3NDb2RlPQ.mp3) )
