@@ -6,7 +6,17 @@
 
 如有侵权，立即删除
 
-网站预览 ( 点击蓝字跳转 ) ：[www.kcgame.ml](www.kcgame.ml)、[www.kcgame.tk](www.kcgame.tk)、[www.kcgame.ga](www.kcgame.ga)、[www.kcgame.gq](www.kcgame.gq)、[www.kcgame.cf](www.kcgame.cf)
+网站预览 ( 点击蓝字跳转 ) ：
+
+[www.kcgame.ml](https://www.kcgame.ml)、
+
+[www.kcgame.tk](https://www.kcgame.tk)、
+
+[www.kcgame.ga](https://www.kcgame.ga)、
+
+[www.kcgame.gq](https://www.kcgame.gq)、
+
+[www.kcgame.cf](https://www.kcgame.cf)
 
 </font>
 
