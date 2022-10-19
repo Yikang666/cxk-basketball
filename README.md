@@ -8,15 +8,19 @@
 
 网站预览 ( 点击蓝字跳转 ) ：
 
-[www.kcgame.ml](https://www.kcgame.ml)
+[kcgame.ml](https://kcgame.ml)
 
-[www.kcgame.tk](https://www.kcgame.tk)
+[kcgame.tk](https://kcgame.tk)
 
-[www.kcgame.ga](https://www.kcgame.ga)
+[kcgame.ga](https://kcgame.ga)
 
-[www.kcgame.gq](https://www.kcgame.gq)
+[kcgame.gq](https://kcgame.gq)
 
-[www.kcgame.cf](https://www.kcgame.cf)
+[kcgame.cf](https://kcgame.cf)
+
+[aikun.gq](https://aikun.gq)
+
+[坤.shab.cf](https://xn--tfs.shab.cf)
 
 </font>
 
