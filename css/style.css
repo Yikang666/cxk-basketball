@@ -16,3 +16,8 @@ canvas{
 	-ms-user-select:none;
 	user-select:none;
 }
+.footer {
+	text-align: center;
+	color: red;
+	padding-top: 15px;
+}
