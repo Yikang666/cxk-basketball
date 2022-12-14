@@ -2,7 +2,7 @@
 
 <font size=5>
 
-此项目为转载
+此项目为二创 ( 源项目[demo](https://github.com/kasuganosoras/cxk-ball/) )
 
 如有侵权，立即删除
 
@@ -26,6 +26,10 @@
 
 ---
 
+### <font size=5>2022/12/14更新</font>
+* <font size=4>添加3个技能 ( 改编自[iotang的二创版](https://github.com/iotang/cxk-ball) ) </font>
+* <font size=4>添加多种难度</font>
+
 ### <font size=5>2022/10/14更新</font>
 * <font size=4>添加友情链接</font>
 * <font size=4>添加背景音乐 ( 打开时请注意音量 )</font>
@@ -36,4 +40,4 @@
 ---
 
 ### <font size=5>待办</font>
-1. - [x] 添加背景音乐 ( [下载链接](https://link.jscdn.cn/lanzou/aHR0cHM6Ly95aWthbmcubGFuem91bC5jb20vaUNRY00wZHR2cWhjJnBhc3NDb2RlPQ.mp3) )
+- [x] 添加背景音乐 ( [下载链接](https://link.jscdn.cn/lanzou/aHR0cHM6Ly95aWthbmcubGFuem91bC5jb20vaUNRY00wZHR2cWhjJnBhc3NDb2RlPQ.mp3) )

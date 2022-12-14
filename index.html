@@ -16,13 +16,13 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" crossorigin="anonymous"></script>
 		<script type="text/javascript"></script>
 	</head>
-	<body oncontextmenu="return false" ondragstart="return false">
+	<body oncontextmenu="return false" ondragstart="return false" style="background-color:#cfe6dc">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
 					<h2>cxk 打篮球</h2>
 					<p>cxk，出来打球！</p>
-					<hr style='background-color:#375f29; height:1px; border:none;''/>
+					<hr style='background-color:#375f29; height:2px; border:none;''/>
 					<center>
 						<p>
 							<div class="input-group">
@@ -32,7 +32,18 @@
 									<option value="3" selected>普通难度（Speed 3）</option>
 									<option value="5">困难模式（Speed 5）</option>
 									<option value="7">极限模式（Speed 7）</option>
-									<option value="9">非人类（Speed 9）</option>
+									<option value="8">死亡细胞（Speed 8）</option>
+									<option value="9">茶杯头（Speed 9）</option>
+									<option value="10">空洞骑士（Speed 10）</option>
+									<option value="11">超级马里奥世界（Speed 11）</option>
+									<option value="12">黑暗之魂（Speed 12）</option>
+									<option value="13">只狼（Speed 13）</option>
+									<option value="14">超级马里奥兄弟（Speed 14）</option>
+									<option value="15">马里奥制造 - 困难（Speed 15）</option>
+									<option value="16">蔚蓝（Speed 16）</option>
+									<option value="17">马里奥制造 - 极难（Speed 17）</option>
+									<option value="18">I Wanna be the Guy（Speed 18）</option>
+									<option value="100">隐藏难度（Speed 100）</option>
 								</select>
 								<div class="input-group-btn">
 									<button type="button" class="btn btn-danger" onclick="window.startGame()">开始游戏</button>
@@ -46,10 +57,24 @@
 						<p><canvas id="canvas" style="width: 100%;height: 563px;"></canvas></p>
 					</center>
 					<h3>游戏说明</h3>
-					<p>使用方向键控制 CXK 左右移动，使用回车让 CXK 发球，按 P 暂停游戏，通关后按 N 进入下一关</p>
-					<p>特殊技能：W 发起虚鲲鬼步，5 秒内能 100% 接住球，每次消耗 1000 积分</p>
-					<p>移动端可以点击屏幕左右控制 CXK 移动</p>
-					<p>如点击开始游戏按钮无反应，请点击两次</p>
+					<p>技能[Q] 意念控球，控制球转向一次，朝向离球最近的一个砖块</p>
+					<p>技能[W] 虚鲲鬼步，5 秒内让篮球跟着 CXK</p>
+					<p>技能[E] 闪烁之鲲，向当前朝向闪烁一小段距离。如果离球足够近，那么会直接闪烁到球的下面</p>
+					<p>技能[R] 爱坤之祝，其它三个技能的 CD 和消耗大幅降低，持续 10 秒</p>
+					<br>	
+					<details>
+						<summary style="font-size: 18px; cursor: pointer;">电脑端使用教程</summary>
+						<div>方向键：控制 CXK 左右移动</div>
+						<div>回车：让 CXK 发球</div>
+						<div>P：暂停游戏</div>
+						<div>N：通关后进入下一关</div>
+					</details>
+					<br>
+					<details>
+						<summary style="font-size: 18px; cursor: pointer;">手机端使用教程</summary>
+						<img src="images/cxk_ball_control.png" width="100%">
+					</details>
+					<br>
 					<p>原背景音乐链接：
 						<a class="link" target="opentype" href="https://www.bilibili.com/video/BV1AC4y1x76p">点击进入</a>
 					</p>
