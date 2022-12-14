@@ -3,11 +3,13 @@ canvas{
   border: 2px solid rgba(255,255,255,0.0);
   background: transparent;
 }
+
 #cdiv {
 	background: url(../images/background.png) no-repeat;
 	background-size: cover;
 	background-position: center;
 }
+
 * {
 	-webkit-touch-callout:none;
 	-webkit-user-select:none;
@@ -16,8 +18,26 @@ canvas{
 	-ms-user-select:none;
 	user-select:none;
 }
+
 .footer {
 	text-align: center;
 	color: red;
 	padding-top: 15px;
 }
+
+.link:link {
+	color: #4b743c;
+  }
+
+.link:visited {
+	color: #4b743c;
+  }
+
+.link:hover {
+	color: brown;
+	text-decoration: none;
+  }
+
+.link:active {
+	color: brown;
+  }
