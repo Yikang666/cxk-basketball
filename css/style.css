@@ -41,20 +41,3 @@ canvas{
 .link:active {
 	color: brown;
   }
-
-/* 隐藏原始三角 */
-details ::marker {
-	font-size: 0;
-  }
-
-/* 自定义三角 */
-summary::after {
-	content: '▶';
-	margin-left: .5ch;
-	position: absolute;
-	transition: transform .2s;
-  }
-
-details:not([open]) summary::after {
-	transform: rotate(90deg);
-  }
