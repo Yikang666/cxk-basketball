@@ -26,6 +26,11 @@
 
 ---
 
+### <font size=5>2023/9/19更新</font>
+* <font size=4>更换音频与js、css库的地址，加载更加迅速</font>
+* <font size=4>精简部分代码</font>
+* <font size=4>将ikun钢琴块与鸡乐盒融合至ikun打篮球主域名内</font>
+
 ### <font size=5>2022/12/14更新</font>
 * <font size=4>添加3个技能 ( 改编自[iotang的二创版](https://github.com/iotang/cxk-ball) ) </font>
 * <font size=4>添加多种难度</font>

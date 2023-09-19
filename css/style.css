@@ -19,12 +19,6 @@ canvas{
 	user-select:none;
 }
 
-.footer {
-	text-align: center;
-	color: red;
-	padding-top: 15px;
-}
-
 .link:link {
 	color: #4b743c;
   }
