@@ -145,7 +145,7 @@ body {
 .t4,
 .t5 {
 	background-size: 158px 158px;
-	background-image: url(../static/image/ClickBefore.png);
+	background-image: url(../more/block/static/image/ClickBefore.png);
 }
 
 .tt1,
@@ -154,7 +154,7 @@ body {
 .tt4,
 .tt5 {
 	background-size: 140px 140px;
-	background-image: url(../static/image/AfterClicking.png);
+	background-image: url(../more/block/static/image/AfterClicking.png);
 }
 
 .bl {
