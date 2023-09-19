@@ -28,14 +28,14 @@ audio::-webkit-media-controls-enclosure {
 
 #main .top .bg1 {
     height: 70px;
-    background-image: url(./more/music/img/bjm11.png);
+    background-image: url(./music/img/bjm11.png);
     background-repeat: no-repeat, repeat;
     background-size: 100% 100%
 }
 
 #main .top .bg2 {
     height: 80px;
-    background-image: url(./more/music/img/bjm22.png);
+    background-image: url(./music/img/bjm22.png);
     background-repeat: no-repeat, repeat;
     background-size: 100% 100%
 }
@@ -49,7 +49,7 @@ audio::-webkit-media-controls-enclosure {
     left: 10px;
     right: 10px;
     margin: auto;
-    background-image: url(./more/music/img/ji.png);
+    background-image: url(./music/img/ji.png);
     background-repeat: no-repeat, repeat;
     background-clip: border-box;
     background-size: 100% 100%;
