@@ -1,6 +1,3 @@
-/* by：弦云孤赫——David Yang
-** github - https://github.com/yangyunhe369
-*/
 // 游戏主函数
 let _main = {
 	LV: 1,                               // 初始关卡

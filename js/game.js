@@ -1,6 +1,3 @@
-/* by：弦云孤赫——David Yang
-** github - https://github.com/yangyunhe369
-*/
 // 创建储存积分的变量
 var storageScore = 0;
 // 创建储存总分的变量

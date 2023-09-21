@@ -1,6 +1,3 @@
-/* by：弦云孤赫——David Yang
-** github - https://github.com/yangyunhe369
-*/
 // 封装打印日志方法
 const log = console.log.bind(console)
 // 生成图片对象方法
@@ -36,10 +33,10 @@ const isPageHidden = function (game)
 }
 // 图片素材路径
 const allImg = {
-	background: "background.jpg",
-	paddle: "paddle_1.png",
-	ball: "ball.png",
-	ballshadow: "ballshadow.png",
-	block1: "b1.png",
-	block2: "b2.png",
+	background: "background.webp",
+	paddle: "paddle_1.webp",
+	ball: "ball.webp",
+	ballshadow: "ballshadow.webp",
+	block1: "b1.webp",
+	block2: "b2.webp",
 }

@@ -88,7 +88,7 @@
 					<br>
 					<details>
 						<summary>手机端使用教程</summary>
-						<img src="images/cxk_ball_control.png" width="100%">
+						<img src="images/cxk_ball_control.webp" width="100%">
 					</details>
 					<br>
 					<p>原背景音乐链接：
@@ -120,16 +120,16 @@
         </script>
 	</body>
 	<!-- 图片预缓存 -->
-	<img src="images/ball.png" style="width: 0px;height: 0px;" />
-	<img src="images/ballshadow.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle_1.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle_2.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle2_1.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle2_2.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle3_1.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle3_2.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle4_1.png" style="width: 0px;height: 0px;" />
-	<img src="images/paddle4_2.png" style="width: 0px;height: 0px;" />
+	<img src="images/ball.webp" style="width: 0px;height: 0px;" />
+	<img src="images/ballshadow.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle_1.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle_2.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle2_1.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle2_2.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle3_1.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle3_2.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle4_1.webp" style="width: 0px;height: 0px;" />
+	<img src="images/paddle4_2.webp" style="width: 0px;height: 0px;" />
 	<script src="js/common.js?s=4"></script>
 	<script src="js/scene.js?s=4"></script>
 	<script src="js/skills.js?s=4"></script>
@@ -161,16 +161,16 @@
 			_main.start();
 			setInterval(function() {
 				if(cxk_body == 1) {
-					_main.paddle.image.src = "images/paddle2_" + move_way + ".png";
+					_main.paddle.image.src = "images/paddle2_" + move_way + ".webp";
 					cxk_body = 2;
 				} else if(cxk_body == 2) {
-					_main.paddle.image.src = "images/paddle3_" + move_way + ".png";
+					_main.paddle.image.src = "images/paddle3_" + move_way + ".webp";
 					cxk_body = 3;
 				}else if(cxk_body == 4){
-					_main.paddle.image.src = "images/paddle4_" + move_way + ".png";
+					_main.paddle.image.src = "images/paddle4_" + move_way + ".webp";
 					cxk_body = 3;
 				} else {
-					_main.paddle.image.src = "images/paddle_" + move_way + ".png";
+					_main.paddle.image.src = "images/paddle_" + move_way + ".webp";
 					cxk_body = 1;
 				}
 			}, 150);
