@@ -105,7 +105,7 @@
 				</div>
 			</div>
 		</div>
-		<audio preload autoplay loop id="music" src="https://oss.666-114514.eu.org:44445/ikun/music.mp3" type="audio/mpeg"></audio>
+		<audio preload autoplay loop id="music" src="https://yikang-oss.s3.bitiful.net/ikun-ball/music.mp3" type="audio/mpeg"></audio>
         <script type="text/javascript">
             window.onload = function(){
                      setInterval("toggleSound()",1);
@@ -117,6 +117,10 @@
                             music.play(); 
                         }    
                 }
+		function killErrors() {
+			return true;
+			}
+		window.onerror =killErrors;		
         </script>
 	</body>
 	<!-- 图片预缓存 -->
